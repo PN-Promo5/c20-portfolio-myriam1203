@@ -1,0 +1,38 @@
+.html {
+  font-size: 10px;
+}
+
+.icon {
+  font-size : 30px;
+
+}
+
+.description {
+  font-size: 25px;
+  color : grey;
+}
+
+.title-experience, .description-experience{
+  font-size: 25px;
+  color: white;
+}
+
+.date-experience {
+  font-style: italic;
+  color: black;
+}
+
+.description-projects, .date-experience {
+  font-size: 20px;
+}
+
+h4 {
+  color: black;
+  font-weight: bold;
+}
+
+.go-to-btn {
+  font-size: 20px;
+
+  color: black;
+}
